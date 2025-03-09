@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: simhash
+Version: 2.1.2
+Summary: A Python implementation of Simhash Algorithm
+Home-page: http://leons.im/posts/a-python-implementation-of-simhash-algorithm/
+Author: 1e0n
+Author-email: i@leons.im
+License: MIT License
+Project-URL: Source, https://github.com/1e0ng/simhash
+Keywords: simhash
+Platform: any
+License-File: LICENSE
+Requires-Dist: numpy
+
+UNKNOWN
+
